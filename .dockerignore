@@ -1,0 +1,14 @@
+node_modules/
+dist/
+coverage/
+.git/
+.gitignore
+.env
+application/.env.example
+*.log
+*.md
+.tsbuildinfo
+.claude/
+.idea/
+.sops/
+.vscode/

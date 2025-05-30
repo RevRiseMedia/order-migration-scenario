@@ -1,0 +1,4 @@
+creation_rules:
+  - path_regex: .*\.sql$
+    age: >-
+      age1583zaxjs0luzdald62uxzhjdq93fxyslmr6vdk9xjamsl98ajg9qqzyhfl
